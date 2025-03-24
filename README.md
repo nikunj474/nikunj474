@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @nikunj474
-- 👀 I’m interested in coding in JS
-- 🌱 I’m currently learning to code at a beginners level
-- 💞️ I’m looking to collaborate with learning partners for this task
-- 📫 You can reach me at nikunj.agrawal.srccsu@gmail.com 
+- 📫 You can reach me at nikunj@seas.upenn.edu
 
 <!---
 nikunj474/nikunj474 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
