@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @nikunj474
+- 👋 Hi, I’m Nikunj Agrawal
+- A Masters in Computer Science student at the University of Pennsylvania!
 - 📫 You can reach me at nikunj@seas.upenn.edu
 
 <!---
