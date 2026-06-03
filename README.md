@@ -30,4 +30,4 @@ I build full-stack applications and AI-powered tools — from RAG pipelines and 
 ## 📫 Contact
 
 - **Email:** nikunj@seas.upenn.edu
-- **LinkedIn:** [linkedin.com/in/nikunj-agrawal](https://linkedin.com/in/nikunj3)
+- **LinkedIn:** [linkedin.com/in/nikunj3](https://linkedin.com/in/nikunj3)
