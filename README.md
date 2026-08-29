@@ -2,13 +2,19 @@
 
 **MS Computer Science, University of Pennsylvania.** I build AI systems, and the infrastructure that has to hold them up.
 
-Most "AI engineering" stops at the API call. The part I care about is what sits underneath: how retrieval behaves at 10 years of documents instead of 10, what happens when a storage node dies mid-request, why an agent's fourth tool call returns garbage. So this profile runs in both directions, a replicated storage engine written from the socket layer up, and LLM systems built with the same instinct for what breaks.
+Hi, I'm Nikunj 👋
 
-Before Penn I spent four years in finance and strategy: CFA Level 1, a Founder's Office role at an HR SaaS unicorn, and a Gates Foundation education program. That is why most of what I build points at financial and operational data rather than at chatbots.
+I build AI systems and the infrastructure required to keep them running. I've worked on Full-Stack development, agentic orchestration systems, Data systems and on what sits underneath all that: fault-tolerant storage, scaling retrieval across millions of documents, and making agentic workflows resilient.
+
+🎓 Currently: Finishing my Master's in Computer Science at University of Pennsylvania.
+
+💻 Building: AI Systems, MCP servers, and complex RAG pipelines.
+
+🕰️ Previously: Spent 4 years in finance, strategy and SWE (CFA Level 1, product growth strategy, automating government technical workflows). I use that background to build AI tools that solve hard financial and operational problems and to use it grow and scale systems.
 
 ---
 
-### Selected work
+### Some of My Projects:
 
 **[NCloud](https://github.com/nikunj474/ncloud)** : Fault-tolerant cloud platform (webmail, drive, chat) on a replicated, range-sharded key-value store written from scratch. ~16,000 lines of C++17 with no web framework, no ORM, and no database. Kill a storage node mid-upload and the cluster elects a new primary in about 1.5 seconds, the request completes, and the dead node resyncs when it returns.
 *Team of 5. I owned the storage layer: the key-value server, replication wiring, multi-tablet sharding, and coordinator failover.*
@@ -39,4 +45,4 @@ Before Penn I spent four years in finance and strategy: CFA Level 1, a Founder's
 
 ### Elsewhere
 
-[nikunj-agrawal.com](https://nikunj-agrawal.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/nikunj3) &nbsp;·&nbsp; nikunj@seas.upenn.edu
+[nikunj-agrawal.com](https://nikunj-agrawal.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/nikunj3) &nbsp;·&nbsp; nikunjag24@gmail.com
